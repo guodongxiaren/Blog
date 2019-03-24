@@ -1,3 +1,6 @@
 [submodule "捕蛇者说"]
 	path = 捕蛇者说
-    url = git@github.com:guodongxiaren/the-snake-catcher-said.git
+	url = git@github.com:guodongxiaren/the-snake-catcher-said.git
+[submodule "后台公论"]
+	path = 后台公论
+	url = git@github.com:guodongxiaren/backend.git

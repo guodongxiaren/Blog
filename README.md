@@ -1,7 +1,7 @@
 # 编程往事
 
 ### [详情请戳]
-[果冻虾仁的网络日志](https://github.com/guodongxiaren/blog/issues)
+[博文](https://github.com/guodongxiaren/blog/issues)
 
 
 ### [专栏]

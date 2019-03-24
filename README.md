@@ -1,6 +1,6 @@
 # 编程往事
 
-### [详情请戳]
+### [详情]
 [博文](https://github.com/guodongxiaren/blog/issues)
 
 

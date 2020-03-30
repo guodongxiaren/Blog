@@ -8,9 +8,9 @@ C++是一个多功能的编程语言，并且偏向于系统编程，它：
 - 支持泛型编程（例如：可复用的泛型容器和算法）
 - 支持函数式编程（例如：模板元编程、lambda函数、`constexpr`）
 
-C++被ISO标准委员会稳定支持了几十年，并且还拥有一个庞大且活跃的用户社区。您可以阅读[《The C++ Programming Language》](http://stroustrup.com/4th.html)和[《Evolving a language in and for the real world: C++ 1991-2006》](http://stroustrup.com/hopl-almost-final.pdf)](http://stroustrup.com/hopl-almost-final.pdf)了解更多。
+C++被ISO标准委员会稳定支持了几十年，并且还拥有一个庞大且活跃的用户社区。您可以阅读[《The C++ Programming Language》](http://stroustrup.com/4th.html)和[《Evolving a language in and for the real world: C++ 1991-2006》](http://stroustrup.com/hopl-almost-final.pdf)了解更多。
 
-或者阅读C++[什么时间](20. When was C++ invented?)以及[为什么](#21. Why was C++ invented?)被发明。
+或者阅读C++[什么时间](#20-when-was-c-invented)以及[为什么](#21-why-was-c-invented)被发明。
 
 ### 2. Is C++ a practical language?
 ### 3. Is C++ a perfect language?
